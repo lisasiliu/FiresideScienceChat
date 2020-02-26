@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: 【围炉话科研】
+description:  Fireside Science Chats
+github:
+  is_project_page: false
