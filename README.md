@@ -30,7 +30,9 @@ Language: Chinese (Mandarin)
 
 ![](CoverImages/FSC1RBunescu.jpg)
 
-[Youtube](https://youtu.be/YpHxNCfnSJU) [Bilibili](https://www.bilibili.com/video/av91262682/)
+Youtube: [https://youtu.be/YpHxNCfnSJU](https://youtu.be/YpHxNCfnSJU)
+
+Bilibili: [https://www.bilibili.com/video/av91262682/](https://www.bilibili.com/video/av91262682/)
 
 - 主题: 自然语言处理入门
 - 主讲人：俄亥俄大学电气工程和计算机系教授Razvan Bunescu
@@ -46,7 +48,7 @@ Language: Chinese (Mandarin)
 
 ![](CoverImages/FSC2DGrooms.JPG)
 
-[Youtube](https://youtu.be/YsAE3ea7di4)
+Youtube: [https://youtu.be/YsAE3ea7di4](https://youtu.be/YsAE3ea7di4)
 
 - 主题: 运用神经科学防止运动损伤：从脑震荡到脚踝扭伤
 - 主讲人：俄亥俄大学健康学院Dustin Blooms教授
