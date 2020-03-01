@@ -28,7 +28,7 @@ Language: Chinese (Mandarin)
 
 ### 第一炉 Chat No. 1：自然语言处理入门 by Dr. Razvan Bunescu
 
-![](CoverImages/FSC1Bunescu.jpg)
+![](CoverImages/FSC1RBunescu.jpg)
 
 - 主题: 自然语言处理入门
 - 主讲人：俄亥俄大学电气工程和计算机系教授Razvan Bunescu
