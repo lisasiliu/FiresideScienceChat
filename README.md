@@ -30,6 +30,8 @@ Language: Chinese (Mandarin)
 
 ![](CoverImages/FSC1RBunescu.jpg)
 
+[Youtube](https://youtu.be/YpHxNCfnSJU) [Bilibili](https://www.bilibili.com/video/av91262682/)
+
 - 主题: 自然语言处理入门
 - 主讲人：俄亥俄大学电气工程和计算机系教授Razvan Bunescu
 - 时间：2020.2.23 周日 北京时间 9AM 
@@ -43,6 +45,8 @@ Language: Chinese (Mandarin)
 ### 第二炉 Chat No. 2：Using Neuroscience to Prevent Sport Injury: From Concussion to Ankle Sprains, by Dr. Dustin Blooms
 
 ![](CoverImages/FSC2DGrooms.JPG)
+
+[Youtube](https://youtu.be/YsAE3ea7di4)
 
 - 主题: 运用神经科学防止运动损伤：从脑震荡到脚踝扭伤
 - 主讲人：俄亥俄大学健康学院Dustin Blooms教授
