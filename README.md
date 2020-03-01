@@ -12,7 +12,23 @@ On 23 January 2020, a lockdown was imposed in Wuhan, China to quarantine the epi
 
 To help relieve the stress of being confined at home for nearly a month, volunteers from IEEE Region 2 and Ohio University and others offered a series of online "Fireside Science Chats" to middle and high school students in locked-down Chinese cities.
 
-### 第一话 Chat No. 1：自然语言处理入门 by Dr. Razvan Bunescu
+### NEW 【围炉话科研】第四炉：生命现象的数学本质--用数学来解释为什么斑马的条纹和豹子的不一样
+时间：2020.3.8 周日 北京时间 9AM
+主讲人：俄亥俄大学数学系吴启亮教授
+语言：普通话
+
+Time: Saturday 2020.3.7 8pm Eastern Time
+Topic: What is life? -- a math perspective
+Presenter: Prof. Qiliang Wu, Mathematics Department, Ohio University
+Language: Chinese (Mandarin)
+
+![](CoverImages/FSC4QWu.JPG)
+
+## Past Presentations
+
+### 第一炉 Chat No. 1：自然语言处理入门 by Dr. Razvan Bunescu
+
+![](CoverImages/FSC1Bunescu.jpg)
 
 - 主题: 自然语言处理入门
 - 主讲人：俄亥俄大学电气工程和计算机系教授Razvan Bunescu
@@ -24,7 +40,10 @@ To help relieve the stress of being confined at home for nearly a month, volunte
 - Time: Saturday 2020.2.22 8pm Eastern Time
 - Language: English
 
-### 第二话 Chat No. 2：Using Neuroscience to Prevent Sport Injury: From Concussion to Ankle Sprains, by Dr. Dustin Blooms
+### 第二炉 Chat No. 2：Using Neuroscience to Prevent Sport Injury: From Concussion to Ankle Sprains, by Dr. Dustin Blooms
+
+![](CoverImages/FSC2DGrooms.JPG)
+
 - 主题: 运用神经科学防止运动损伤：从脑震荡到脚踝扭伤
 - 主讲人：俄亥俄大学健康学院Dustin Blooms教授
 - 时间：2020.2.29 周六 北京时间 9AM 
@@ -36,7 +55,10 @@ To help relieve the stress of being confined at home for nearly a month, volunte
 - Language: English
 
 
-### 第三话 Chat No. 3：历史上改变中国和世界的瘟疫和战胜瘟疫的故事 - 从水浒传到牛顿 : 生物医学科学简介 by Dr. 陈小茁
+### 第三炉 Chat No. 3：历史上改变中国和世界的瘟疫和战胜瘟疫的故事 - 从水浒传到牛顿 : 生物医学科学简介 by Dr. 陈小茁
+
+![](CoverImages/FSC3XChen.jpg)
+
 - 主题: 历史上改变中国和世界的瘟疫和战胜瘟疫的故事 - 从水浒传到牛顿 : 生物医学科学简介
 - 主讲人：俄亥俄大学生物医学科学系陈小茁教授
 - 时间：2020.3.1 周日 北京时间 9AM 
