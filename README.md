@@ -49,6 +49,7 @@ Bilibili: [https://www.bilibili.com/video/av91262682/](https://www.bilibili.com/
 ![](CoverImages/FSC2DGrooms.JPG)
 
 Youtube: [https://youtu.be/YsAE3ea7di4](https://youtu.be/YsAE3ea7di4)
+Bilibili: [https://www.bilibili.com/video/av92996460/](https://www.bilibili.com/video/av92996460/)
 
 - 主题: 运用神经科学防止运动损伤：从脑震荡到脚踝扭伤
 - 主讲人：俄亥俄大学健康学院Dustin Blooms教授
@@ -64,6 +65,9 @@ Youtube: [https://youtu.be/YsAE3ea7di4](https://youtu.be/YsAE3ea7di4)
 ### 第三炉 Chat No. 3：历史上改变中国和世界的瘟疫和战胜瘟疫的故事 - 从水浒传到牛顿 : 生物医学科学简介 by Dr. 陈小茁
 
 ![](CoverImages/FSC3XChen.jpg)
+
+YouTube: [https://youtu.be/x_8qdEcQiXI](https://youtu.be/x_8qdEcQiXI)
+Bilibili: [https://www.bilibili.com/video/av93263129/](https://www.bilibili.com/video/av93263129/)
 
 - 主题: 历史上改变中国和世界的瘟疫和战胜瘟疫的故事 - 从水浒传到牛顿 : 生物医学科学简介
 - 主讲人：俄亥俄大学生物医学科学系陈小茁教授
