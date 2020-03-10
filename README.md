@@ -12,17 +12,17 @@ On 23 January 2020, a lockdown was imposed in Wuhan, China to quarantine the epi
 
 To help relieve the stress of being confined at home for nearly a month, volunteers from IEEE Region 2 and Ohio University and others offered a series of online "Fireside Science Chats" to middle and high school students in locked-down Chinese cities.
 
-### NEW 【围炉话科研】第四炉：生命现象的数学本质--用数学来解释为什么斑马的条纹和豹子的不一样
-时间：2020.3.8 周日 北京时间 9AM
-主讲人：俄亥俄大学数学系吴启亮教授
-语言：普通话
+### NEW 【围炉话科研】第五炉：模数转换器入门
+时间：2020.3.14 周六 北京时间 9AM
+主讲人：国际电气和电子工程师协会代顿分会会长Dr. Charles Cerny
+语言：英语（普通话翻译）
 
-Time: Saturday 2020.3.7 8pm Eastern Time
-Topic: What is life? -- a math perspective
-Presenter: Prof. Qiliang Wu, Mathematics Department, Ohio University
-Language: Chinese (Mandarin)
+Time: Friday 2020.3.13 9pm Eastern Daylight Time
+Topic: The ABCs of Analog to Digital Converters (ADCs)
+Presenter: Dr. Charles Cerny, IEEE Region 2 Dayton Section Chair, Ohio
+Language: English
 
-![](CoverImages/FSC4QWu.JPG)
+![](CoverImages/FSC5CCerny.PNG)
 
 ## Past Presentations
 
@@ -80,3 +80,20 @@ Bilibili: [https://www.bilibili.com/video/av93263129/](https://www.bilibili.com/
 - Presenter: Prof. Xiaozhuo Chen, Biomedical Sciences, Ohio University
 - Time: Saturday 2020.2.29 8pm Eastern Time
 - Language: Chinese (Mandarin)
+
+### 第四炉 Chat No. 4：生命现象的数学本质--用数学来解释为什么斑马的条纹和豹子的不一样
+
+![](CoverImages/FSC4QWu.JPG)
+
+YouTube: [https://youtu.be/KhNJRyVrGkQ](https://youtu.be/KhNJRyVrGkQ)
+
+Bilibili: [https://www.bilibili.com/video/av94706218/](https://www.bilibili.com/video/av94706218/)
+
+时间：2020.3.8 周日 北京时间 9AM
+主讲人：俄亥俄大学数学系吴启亮教授
+语言：普通话
+
+Time: Saturday 2020.3.7 8pm Eastern Time
+Topic: What is life? -- a math perspective
+Presenter: Prof. Qiliang Wu, Mathematics Department, Ohio University
+Language: Chinese (Mandarin)
