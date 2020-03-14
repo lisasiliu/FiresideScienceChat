@@ -1,6 +1,6 @@
-## Fireside Help (Donations)
+## 围炉送温暖 Fireside Help (Donations to students in need)
 
-### Record History (Recipient)
+### 历史账本 Transaction History 
 
 |实需生<br>Student in need          | 实需生信息的验证码 <br>SHA-1 or MD5 Checksum of Student Info                   | 地区 Location    | 受疫情影响(可选）Description (optional)  | 收款二维码的验证码 <br>SHA-1 or MD5 Checksum of Payment QR    | 志愿验证人联系方式<br>Volunteer Verifier Contact |
 | ------------------- | ------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
