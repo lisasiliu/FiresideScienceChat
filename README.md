@@ -12,17 +12,27 @@ On 23 January 2020, a lockdown was imposed in Wuhan, China to quarantine the epi
 
 To help relieve the stress of being confined at home for nearly a month, volunteers from IEEE Region 2 and Ohio University and others offered a series of online "Fireside Science Chats" to middle and high school students in locked-down Chinese cities.
 
-### NEW 【围炉话科研】第五炉：模数转换器入门
-时间：2020.3.14 周六 北京时间 9AM
-主讲人：国际电气和电子工程师协会代顿分会会长Dr. Charles Cerny
-语言：英语（普通话翻译）
+### NEW 【围炉话科研】第六炉：围炉讨论ISEF(国际科学和工程比赛)
+时间：2020.3.21 周六 北京时间 9AM
+嘉宾：
+ISEF2018决赛选手：田安如(现就读MIT）
+ISEF2019决赛选手：江南
+ISEF2019明州决赛选手：Benjamin Yan（已被斯坦福大学计算机系录取）
+ISEF2019裁判：田淑兰博士
+ISEF2019，ISEF2020裁判：刘畅博士
+ISEF2019志愿翻译：Lisa Liu
 
-Time: Friday 2020.3.13 9pm Eastern Daylight Time
-Topic: The ABCs of Analog to Digital Converters (ADCs)
-Presenter: Dr. Charles Cerny, IEEE Region 2 Dayton Section Chair, Ohio
-Language: English
+Time: Friday 2020.3.20 9pm Eastern Daylight Time
+Panel Discussion on ISEF (International Science and Engineering Fair)
+Panelists:
+* ISEF 2018 Finalist: Anru Tian (now at MIT)
+* ISEF 2019 Finalist: Nan Jiang
+* ISEF 2019 MN State Finalist: Benjamin Yan (admitted by Stanford University, Computer Science)
+* ISEF 2019 Judge Dr. Shulan Tian
+* ISEF 2019, ISEF2020 Judge Dr. Chang Liu
+* ISEF 2019 Volunteer Translator: Lisa Liu
 
-![](CoverImages/FSC5CCerny.PNG)
+![](CoverImages/FSC6ISEF.jpg)
 
 ## Past Presentations
 
@@ -97,3 +107,19 @@ Time: Saturday 2020.3.7 8pm Eastern Time
 Topic: What is life? -- a math perspective
 Presenter: Prof. Qiliang Wu, Mathematics Department, Ohio University
 Language: Chinese (Mandarin)
+
+### 【围炉话科研】第五炉 Chat No. 5：模数转换器入门
+时间：2020.3.14 周六 北京时间 9AM
+主讲人：国际电气和电子工程师协会代顿分会会长Dr. Charles Cerny
+语言：英语（普通话翻译）
+
+![](CoverImages/FSC5CCerny.PNG)
+
+YouTube: [https://youtu.be/BpJE6mR9ZbE](https://youtu.be/BpJE6mR9ZbE)
+
+Bilibili: [https://www.bilibili.com/video/av96573334/](https://www.bilibili.com/video/av96573334/)
+
+Time: Friday 2020.3.13 9pm Eastern Daylight Time
+Topic: The ABCs of Analog to Digital Converters (ADCs)
+Presenter: Dr. Charles Cerny, IEEE Region 2 Dayton Section Chair, Ohio
+Language: English
