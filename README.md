@@ -12,27 +12,17 @@ On 23 January 2020, a lockdown was imposed in Wuhan, China to quarantine the epi
 
 To help relieve the stress of being confined at home for nearly a month, volunteers from IEEE Region 2 and Ohio University and others offered a series of online "Fireside Science Chats" to middle and high school students in locked-down Chinese cities.
 
-### NEW 【围炉话科研】第六炉：围炉讨论ISEF(国际科学和工程比赛)
-时间：2020.3.21 周六 北京时间 9AM
-嘉宾：
-ISEF2018决赛选手：田安如(现就读MIT）
-ISEF2019决赛选手：江南
-ISEF2019明州决赛选手：Benjamin Yan（已被斯坦福大学计算机系录取）
-ISEF2019裁判：田淑兰博士
-ISEF2019，ISEF2020裁判：刘畅博士
-ISEF2019志愿翻译：Lisa Liu
+### NEW 【围炉话科研】第七炉：从MD5到SHA1: Hash函数入门
+时间：2020.3.28 周六 北京时间 9PM
+主讲：俄亥俄大学电气工程和计算机系刘畅教授
+语言：普通话
 
-Time: Friday 2020.3.20 9pm Eastern Daylight Time
-Panel Discussion on ISEF (International Science and Engineering Fair)
-Panelists:
-* ISEF 2018 Finalist: Anru Tian (now at MIT)
-* ISEF 2019 Finalist: Nan Jiang
-* ISEF 2019 MN State Finalist: Benjamin Yan (admitted by Stanford University, Computer Science)
-* ISEF 2019 Judge Dr. Shulan Tian
-* ISEF 2019, ISEF2020 Judge Dr. Chang Liu
-* ISEF 2019 Volunteer Translator: Lisa Liu
+Time: Saturday 2020.3.28 9AM Eastern Daylight Time
+Topic: From MD5 to SHA1: an introduction to hash functions
+Presenter: Prof. Chang Liu, School of EECS, Ohio University
+Language: Mandarin
 
-![](CoverImages/FSC6ISEF.jpg)
+![](CoverImages/FSC7CLiu.jpg)
 
 ## Past Presentations
 
@@ -123,3 +113,26 @@ Time: Friday 2020.3.13 9pm Eastern Daylight Time
 Topic: The ABCs of Analog to Digital Converters (ADCs)
 Presenter: Dr. Charles Cerny, IEEE Region 2 Dayton Section Chair, Ohio
 Language: English
+
+### 【围炉话科研】第六炉 Chat No. 6：围炉讨论ISEF(国际科学和工程比赛)
+
+![](CoverImages/FSC6ISEF.jpg)
+
+时间：2020.3.21 周六 北京时间 9AM
+嘉宾：
+ISEF2018决赛选手：田安如(现就读MIT）
+ISEF2019决赛选手：江南
+ISEF2019明州决赛选手：Benjamin Yan（已被斯坦福大学计算机系录取）
+ISEF2019裁判：田淑兰博士
+ISEF2019，ISEF2020裁判：刘畅博士
+ISEF2019志愿翻译：Lisa Liu
+
+Time: Friday 2020.3.20 9pm Eastern Daylight Time
+Panel Discussion on ISEF (International Science and Engineering Fair)
+Panelists:
+* ISEF 2018 Finalist: Anru Tian (now at MIT)
+* ISEF 2019 Finalist: Nan Jiang
+* ISEF 2019 MN State Finalist: Benjamin Yan (admitted by Stanford University, Computer Science)
+* ISEF 2019 Judge Dr. Shulan Tian
+* ISEF 2019, ISEF2020 Judge Dr. Chang Liu
+* ISEF 2019 Volunteer Translator: Lisa Liu
