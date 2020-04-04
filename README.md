@@ -142,6 +142,13 @@ Panelists:
 * ISEF 2019 Volunteer Translator: Lisa Liu
 
 ### 【围炉话科研】第七炉 Chat No. 7：从MD5到SHA1: Hash函数入门
+
+![](CoverImages/FSC7CLiu.jpg)
+
+YouTube: [https://www.youtube.com/watch?v=Pr_jodSYd-0](https://www.youtube.com/watch?v=Pr_jodSYd-0)
+
+Bilibili: [https://www.bilibili.com/video/BV18K411L7Do/](https://www.bilibili.com/video/BV18K411L7Do/)
+
 - 时间：2020.3.28 周六 北京时间 9PM
 - 主讲：俄亥俄大学电气工程和计算机系刘畅教授
 - 语言：普通话
@@ -151,4 +158,3 @@ Panelists:
 - Presenter: Prof. Chang Liu, School of EECS, Ohio University
 - Language: Mandarin
 
-![](CoverImages/FSC7CLiu.jpg)
