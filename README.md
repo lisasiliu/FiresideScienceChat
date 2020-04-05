@@ -1,5 +1,3 @@
-# Password: 404
-
 ##  【围炉话科研】 Fireside Science Chat
 
 2020年1月23日早上十点，武汉封城。
@@ -14,11 +12,10 @@ On 23 January 2020, a lockdown was imposed in Wuhan, China to quarantine the epi
 
 To help relieve the stress of being confined at home for nearly a month, volunteers from IEEE Region 2 and Ohio University and others offered a series of online "Fireside Science Chats" to middle and high school students in locked-down Chinese cities.
 
-Visit: https://zoom.us/j/5563449625 to join the chat. 
-
 New Zoom update- passwords are mandatory!
 
-# Password: 404
+Zoom link: https://zoom.us/j/5563449625
+Password: 404
 
 ### NEW 【围炉话科研】第八炉: 听力与听力损失
 
