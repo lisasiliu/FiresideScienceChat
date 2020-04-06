@@ -1,6 +1,6 @@
 ## 围炉送温暖 Fireside Help (Donations to students in need)
 
-### 历史账本 Transaction History (April 2020)
+### 历史账本 Transaction History (April 2020, following the current [protocol](Donations/Donations.docx))
 
 | Initiator (Applicant or Donor) <br> 发起人（申请人或捐助人）   | 地区 Location    | 情况描述<br>Description  | 志愿验证人/协调人联系方式<br>Volunteer Verifier/Coordinator Contact | 验证结果 Verification results |捐助状态 Status of donation |防重码 Anti-Double-Dip Checksum |
 | ------------------- |  ------------------- | ------------------- | ------------------- | ------------------- | ----- | 
@@ -8,7 +8,7 @@
 | [004-2020.4.6](Donations/004/Applicant004) Applicant | Ohio | 一位以前来过本校的访问学者和国内一个厂家捐赠给我们大约10,000个医用外科口罩。现在需要筹集运费7000元人民币把这批口罩运到美国。收款人是本校一位教师，也是为大家服务的。 | | | 
 
 
-### 历史账本 Transaction History (March 2020)
+### 历史账本 Transaction History (March 2020, following [protocol v0.3](Donations/Donations-v0.3.docx))
 
 |实需生<br>Student in need           | 地区 Location    | 受疫情影响(可选）<br>Description (optional)  | 志愿验证人联系方式<br>Volunteer Verifier Contact | 验证结果 Verification results |捐助状态 Status of donation |防重码 Anti-Double-Dip Checksum |
 | ------------------- |  ------------------- | ------------------- | ------------------- | ------------------- | ----- | 
