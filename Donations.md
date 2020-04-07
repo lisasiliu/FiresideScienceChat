@@ -1,5 +1,9 @@
 ## 围炉送温暖 Fireside Help (Donations to students in need)
 
+## Donation Process
+
+![](Donations/DonationProcess.png)
+
 ### 历史账本 Transaction History (April 2020, following the current [protocol](Donations/Donations.docx))
 
 | Initiator (Applicant or Donor) <br> 发起人（申请人或捐助人）   | 地区 Location    | 情况描述<br>Description  | 志愿验证人/协调人联系方式<br>Volunteer Verifier/Coordinator Contact | 验证结果 Verification results |捐助状态 Status of donation |防重码 Anti-Double-Dip Checksum |
