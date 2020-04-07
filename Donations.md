@@ -1,6 +1,6 @@
-## 围炉送温暖 Fireside Help (Donations to students in need)
+## 围炉送温暖 Fireside Help (Donations to People-in-Need)
 
-## Donation Process
+## Application and Donation Process
 
 ![](Donations/DonationProcess.png)
 
