@@ -1,4 +1,8 @@
-## 围炉送温暖 Fireside Help (Donations to students in need)
+## 围炉送温暖 Fireside Help (Donations to People-in-Need)
+
+## Application and Donation Process
+
+![](Donations/DonationProcess.png)
 
 ### 历史账本 Transaction History (April 2020, following the current [protocol](Donations/Donations.docx))
 
