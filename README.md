@@ -17,18 +17,9 @@ New Zoom update- passwords are mandatory!
 Zoom link: https://zoom.us/j/5563449625
 Password: 01230408
 
-### NEW 【围炉话科研】第九炉 Chat No. 9：漫谈 “赛博” 学 ---- 从古中国的烽火台到智能手机，从古希腊的航海术到智能气车
+### Announcement!
 
-- 时间：2020.4.11 周六 北京时间 21:00
-- 主讲：俄亥俄大学电机工程与计算机科学系朱建潮教授
-- 语言：普通话
-
-- Time: Saturday 2020.4.11 9 AM Eastern Time
-- Topic: Chat about Cybernetics – From ancient Chinese balefire-tower to smart cellphones, from ancient Greek sailors to intelligent cars
-- Presenter: Dr. Jianchao (Jim) Zhu, School of Electrical Engineering and Computer Science, Russ College of Engineering and Technology, Ohio University
-- Language: Mandarin
-
-![](CoverImages/FSC9JZhu.jpg)
+We originally started this series because we wanted to provide interesting talks on new topics for the students who were affected by the lockdown in Wuhan and were staying at home. Now that the lockdown has been lifted, we will no longer be hosting weekly chats. There may be some sporadic talks in the future, but there is no fixed schedule. We do hope to see everyone in any future talks we have! 
 
 ## Past Presentations
 
@@ -163,7 +154,7 @@ Bilibili: [https://www.bilibili.com/video/BV18K411L7Do/](https://www.bilibili.co
 - Presenter: Prof. Chang Liu, School of EECS, Ohio University
 - Language: Mandarin
 
-### 【围炉话科研】第八炉: 听力与听力损失
+### 【围炉话科研】第八炉 Chat No. 8: 听力与听力损失
 
 ![](CoverImages/FSC8LXu.JPG)
 
@@ -178,4 +169,17 @@ Bilibili: [https://www.bilibili.com/video/BV1ek4y197iN/](https://www.bilibili.co
 - Time: Saturday 2020.4.4 9AM Eastern Daylight Time
 - Topic: Hearing and Hearing Loss
 - Presenter: Prof. Li Xu, School of Rehabilitation and Communication Studies, College of Health Sciences and Professions, Ohio University
+- Language: Mandarin
+
+### 【围炉话科研】第九炉 Chat No. 9：漫谈 “赛博” 学 ---- 从古中国的烽火台到智能手机，从古希腊的航海术到智能气车
+
+![](CoverImages/FSC9JZhu.jpg)
+
+- 时间：2020.4.11 周六 北京时间 21:00
+- 主讲：俄亥俄大学电机工程与计算机科学系朱建潮教授
+- 语言：普通话
+
+- Time: Saturday 2020.4.11 9 AM Eastern Time
+- Topic: Chat about Cybernetics – From ancient Chinese balefire-tower to smart cellphones, from ancient Greek sailors to intelligent cars
+- Presenter: Dr. Jianchao (Jim) Zhu, School of Electrical Engineering and Computer Science, Russ College of Engineering and Technology, Ohio University
 - Language: Mandarin
