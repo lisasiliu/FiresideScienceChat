@@ -15,7 +15,7 @@ To help relieve the stress of being confined at home for nearly a month, volunte
 New Zoom update- passwords are mandatory!
 
 Zoom link: https://zoom.us/j/5563449625
-Password: 404
+Password: 01230408
 
 ### NEW 【围炉话科研】第九炉 Chat No. 9：漫谈 “赛博” 学 ---- 从古中国的烽火台到智能手机，从古希腊的航海术到智能气车
 
