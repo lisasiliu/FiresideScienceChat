@@ -12,11 +12,6 @@ On 23 January 2020, a lockdown was imposed in Wuhan, China to quarantine the epi
 
 To help relieve the stress of being confined at home for nearly a month, volunteers from IEEE Region 2 and Ohio University and others offered a series of online "Fireside Science Chats" to middle and high school students in locked-down Chinese cities.
 
-New Zoom update- passwords are mandatory!
-
-Zoom link: https://zoom.us/j/5563449625
-Password: 01230408
-
 ### Announcement!
 
 We originally started this series because we wanted to provide interesting talks on new topics for the students who were affected by the lockdown in Wuhan and were staying at home. Now that the lockdown has been lifted, we will no longer be hosting weekly chats. There may be some sporadic talks in the future, but there is no fixed schedule. We do hope to see everyone in any future talks we have! 
@@ -183,3 +178,5 @@ Bilibili: [https://www.bilibili.com/video/BV1ek4y197iN/](https://www.bilibili.co
 - Topic: Chat about Cybernetics – From ancient Chinese balefire-tower to smart cellphones, from ancient Greek sailors to intelligent cars
 - Presenter: Dr. Jianchao (Jim) Zhu, School of Electrical Engineering and Computer Science, Russ College of Engineering and Technology, Ohio University
 - Language: Mandarin
+- Zoom link: https://zoom.us/j/5563449625; Password: 01230408
+
