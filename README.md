@@ -185,6 +185,8 @@ Bilibili: [https://www.bilibili.com/video/BV1ek4y197iN/](https://www.bilibili.co
 - Dr. Chang Liu: Coordinator
 - Lisa Liu: Host and coordinator
 - Qing Wang: Media artists
+- Helen Liu: Thank you card designer
+- Sophia Zhou: Volunteer translator
 
 We thank all speakers and panelists for leading the fireside science chats. We thank all teachers and parents for supporting the series. Most importantly, we thank all participanting students for joining us during the unprecedented pandemic. 
 
