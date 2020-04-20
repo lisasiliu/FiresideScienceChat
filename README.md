@@ -185,8 +185,8 @@ Bilibili: [https://www.bilibili.com/video/BV1ek4y197iN/](https://www.bilibili.co
 - Dr. Chang Liu: Coordinator
 - Lisa Liu (10th grader): Host and coordinator
 - Qing Wang: Media artists
-- Sophia Zhou (8th grader): Volunteer translator
-- Helen Liu (7th grader): Thank you card designer
+- Sophia Zhou (8th grader): Volunteer translator (for 2 sessions)
+- Helen Liu (7th grader): Thank-you card designer
 
 We thank all speakers and panelists for leading the fireside science chats. We thank all teachers and parents for supporting the series. Most importantly, we thank all participanting students for joining us during the unprecedented pandemic. 
 
