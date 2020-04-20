@@ -170,6 +170,10 @@ Bilibili: [https://www.bilibili.com/video/BV1ek4y197iN/](https://www.bilibili.co
 
 ![](CoverImages/FSC9JZhu.jpg)
 
+YouTube: [https://youtu.be/pZ0doTJfW_w](https://youtu.be/pZ0doTJfW_w)
+
+Bilibili: [https://www.bilibili.com/video/BV1h64y1T7xc/](https://www.bilibili.com/video/BV1h64y1T7xc/)
+
 - 时间：2020.4.11 周六 北京时间 21:00
 - 主讲：俄亥俄大学电机工程与计算机科学系朱建潮教授
 - 语言：普通话
