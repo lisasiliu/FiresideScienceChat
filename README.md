@@ -189,8 +189,7 @@ Bilibili: [https://www.bilibili.com/video/BV1ek4y197iN/](https://www.bilibili.co
 We thank all speakers and panelists for leading the fireside science chats. We thank all teachers and parents for supporting the series. Most importantly, we thank all participanting students for joining us during the unprecedented pandemic. 
 
 IEEE Region 2 helped recruit speakers and distribute stories about us.
-* https://r2.ieee.org/wp-content/uploads/2020/03/IEEE-R2-mini-Newsletter-Q1-2020-r1.pdf
-* https://r2.ieee.org/wp-content/uploads/2020/04/IEEE-R2-Newsletter-April-2020-Final.pdf 
+* [IEEE R2 March 2020 newsletter](https://r2.ieee.org/wp-content/uploads/2020/03/IEEE-R2-mini-Newsletter-Q1-2020-r1.pdf)
+* [IEEE R2 April 2020 newsletter](https://r2.ieee.org/wp-content/uploads/2020/04/IEEE-R2-Newsletter-April-2020-Final.pdf) 
 
-Ohio University Russ College helped disseminate the information through a news release.
-* https://www.ohio.edu/news/2020/03/ohio-professor-daughter-duo-create-virtual-science-series-keep-youth-engaged-during
+Ohio University Russ College helped disseminate the information through a [news release](https://www.ohio.edu/news/2020/03/ohio-professor-daughter-duo-create-virtual-science-series-keep-youth-engaged-during).
