@@ -188,7 +188,7 @@ Bilibili: [https://www.bilibili.com/video/BV1h64y1T7xc/](https://www.bilibili.co
 ## Credits and Acknowledgement:
 - Dr. Chang Liu: Coordinator
 - Lisa Liu (10th grader): Host and coordinator
-- Qing Wang: Media artists
+- Qing Wang: Media artist
 - Sophia Zhou (8th grader): Volunteer translator (for 2 sessions)
 - Helen Liu (7th grader): Thank-you card designer
 
