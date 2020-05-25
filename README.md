@@ -16,6 +16,19 @@ To help relieve the stress of being confined at home for nearly a month, volunte
 
 We originally started this series because we wanted to provide interesting talks on new topics for the students who were affected by the lockdown in Wuhan and were staying at home. Now that the lockdown has been lifted, we will no longer be hosting weekly chats. There may be some sporadic talks in the future, but there is no fixed schedule. We do hope to see everyone in any future talks we have! 
 
+### NEW Chat No. 10: MRI (Magnetic Resonance Imaging) Demystified by Dr. Susan Eskin with WIE (Women in Engineering)
+ 
+- Description: Magnetic Resonance Imaging (MRI) combines science, technology, engineering and mathematics to create medical images. We'll chat about how MRI works and explore some of the MRI methods used to study how the brain and body work.
+- Speaker: Dr. Susan Eskin, Assistant Teaching Professor of Physics, School of Science, Engineering, and Technology, Penn State Harrisburg.
+- Time: May 30, 2020 Sat from 8:00pm to 9:00pm Eastern Time
+- Zoom Meeting ID: 830 8890 1686
+- Password: 179858
+- https://us02web.zoom.us/j/83088901686?pwd=L1NkTDh4QjNKeWltMXdwZ0Juc1hiZz09
+
+Free. Open to all middle school and high school students.
+
+![](CoverImages/FSC10SEskin.jpg)
+
 ## Past Presentations
 
 ### 第一炉 Chat No. 1：自然语言处理入门 by Dr. Razvan Bunescu
