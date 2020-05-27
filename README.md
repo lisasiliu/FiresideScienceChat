@@ -14,7 +14,21 @@ To help relieve the stress of being confined at home for nearly a month, volunte
 
 ### Announcement!
 
-We originally started this series because we wanted to provide interesting talks on new topics for the students who were affected by the lockdown in Wuhan and were staying at home. Now that the lockdown has been lifted, we will no longer be hosting weekly chats. There may be some sporadic talks in the future, but there is no fixed schedule. We do hope to see everyone in any future talks we have! 
+We originally started this series because we wanted to provide interesting talks on new topics for the students who were affected by the lockdown in Wuhan and were staying at home. Now that the lockdown has been lifted, we will no longer be hosting weekly chats in Chinese. 
+
+### Fireside Science Chats with IEEE WIE
+
+The Fireside Science Chats that started in
+January 2020 with middle and high school
+students in “locked-down” Chinese cities
+have been successful. The IEEE Region 2
+WIE is inspired from their success. We are
+starting a new initiative as a spin-off and
+inviting middle and high school students
+from every where in the world.
+
+-- Carole Carey, IEEE R2 WIE Coordinator
+
 
 ### NEW: Chat No. 10: "MRI (Magnetic Resonance Imaging) Demystified" by Dr. Susan Eskin with [IEEE WIE](https://wie.ieee.org/) (Women in Engineering)
  
