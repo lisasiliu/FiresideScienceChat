@@ -1,4 +1,4 @@
-##  【围炉话科研】 Fireside Science Chat
+##  【围炉话科研】 Fireside Science Chats
 
 2020年1月23日早上十点，武汉封城。
 
@@ -16,7 +16,7 @@ To help relieve the stress of being confined at home for nearly a month, volunte
 
 We originally started this series because we wanted to provide interesting talks on new topics for the students who were affected by the lockdown in Wuhan and were staying at home. Now that the lockdown has been lifted, we will no longer be hosting weekly chats. There may be some sporadic talks in the future, but there is no fixed schedule. We do hope to see everyone in any future talks we have! 
 
-### NEW Chat No. 10: MRI (Magnetic Resonance Imaging) Demystified by Dr. Susan Eskin with [IEEE WIE](https://wie.ieee.org/) (Women in Engineering)
+### NEW: Chat No. 10: "MRI (Magnetic Resonance Imaging) Demystified" by Dr. Susan Eskin with [IEEE WIE](https://wie.ieee.org/) (Women in Engineering)
  
 - Description: Magnetic Resonance Imaging (MRI) combines science, technology, engineering and mathematics to create medical images. We'll chat about how MRI works and explore some of the MRI methods used to study how the brain and body work.
 - Speaker: Dr. Susan Eskin, Assistant Teaching Professor of Physics, School of Science, Engineering, and Technology, Penn State Harrisburg.
