@@ -45,7 +45,7 @@ Free. Open to all middle school and high school students.
 
 ### 第一炉 Chat No. 1：自然语言处理入门 by Dr. Razvan Bunescu
 
-![](CoverImages/FSC1RBunescu.jpg)
+![https://docs.google.com/presentation/d/11ZEe1kLjmwCQRgMME8WVNfQo-rh2qTDVKsiI01zZtlE/edit?usp=sharing](CoverImages/FSC1RBunescu.jpg)
 
 Youtube: [https://youtu.be/YpHxNCfnSJU](https://youtu.be/YpHxNCfnSJU)
 
