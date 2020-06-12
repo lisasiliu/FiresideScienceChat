@@ -37,6 +37,7 @@ from every where in the world.
 ![](CoverImages/FSC10SEskin.jpg)
 
 YouTube: [https://youtu.be/GBqLaKI5zu8](https://youtu.be/GBqLaKI5zu8)
+Bilibili: [https://www.bilibili.com/video/BV1CQ4y1P7g2/](https://www.bilibili.com/video/BV1CQ4y1P7g2/)
  
 - Description: Magnetic Resonance Imaging (MRI) combines science, technology, engineering and mathematics to create medical images. We'll chat about how MRI works and explore some of the MRI methods used to study how the brain and body work.
 - Speaker: Dr. Susan Eskin, Assistant Teaching Professor of Physics, School of Science, Engineering, and Technology, Penn State Harrisburg.
