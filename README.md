@@ -136,6 +136,8 @@ Bilibili: [https://www.bilibili.com/video/av96573334/](https://www.bilibili.com/
 - Presenter: Dr. Charles Cerny, IEEE Region 2 Dayton Section Chair, Ohio
 - Language: English
 
+- *This talk recevied Top 10 Recognition at IEEE Section Congress 2020 for “What I did during COVID-19?”*
+
 ### 【围炉话科研】第六炉 Chat No. 6：围炉讨论ISEF(国际科学和工程比赛)
 
 ![](CoverImages/FSC6ISEF.jpg)
