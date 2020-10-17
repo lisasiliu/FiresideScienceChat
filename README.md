@@ -1,5 +1,7 @@
 ##  【围炉话科研】 Fireside Science Chats
 
+### The Beginning
+
 2020年1月23日早上十点，武汉封城。
 
 千万人口的大都市因为新型冠状病毒而完全封闭，史无前例。
@@ -12,11 +14,15 @@ On 23 January 2020, a lockdown was imposed in Wuhan, China to quarantine the epi
 
 To help relieve the stress of being confined at home for nearly a month, volunteers from IEEE Region 2 and Ohio University and others offered a series of online "Fireside Science Chats" to middle and high school students in locked-down Chinese cities.
 
-### Announcement!
+### The Latest update
+Working with IEEE Region 2 WIE (Women In Engineering), we bring Fireside Science Chats in English to girls and boys in America who are under "Stay Safe at Home" orders.
 
-We originally started this series because we wanted to provide interesting talks on new topics for the students who were affected by the lockdown in Wuhan and were staying at home. Now that the lockdown has been lifted, we will no longer be hosting weekly chats in Chinese.
+### Past Announcement
 
-## Past Presentations (Collaborations, English)
+We originally started this series because we wanted to provide interesting talks on new topics for the students who were affected by the lockdown in Wuhan and were staying at home. Now that the lockdown has been lifted, we will no longer be hosting weekly chats in Chinese. 
+
+
+## Past Presentations (English)
 
 ### Fireside Science Chats with IEEE WIE
 
